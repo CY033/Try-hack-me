@@ -37,6 +37,16 @@ Because `1=1` is a true statement and we've used an OR operator, this will alway
 ## Answer the questions below
 
 What is the flag after completing level two? (and moving to level 3)
+ ```
+Answer ??
 ```
 
-Feel free to ask if you need any more help!
+<details>
+<summary>Click to see answer</summary>
+
+
+```sql
+THM{SQL_INJECTION_9581}
+```
+
+
