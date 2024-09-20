@@ -41,6 +41,6 @@ Let me know if you need any more assistance!
  
 
 ```sql
-THM{SQL_INJECTION_1093}
+THM{SQL_INJECTION_MASTER}
  
  ```
